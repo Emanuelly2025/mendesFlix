@@ -38,12 +38,7 @@ input{
   border: none;
   border-radius: 5px;
 }
-#lembrar{
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  margin-bottom: 20px;
-}
+
 button{
   background-color: #00b894;
   color: white;
