@@ -19,7 +19,7 @@ body{
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
 
-#formi{
+.form-box{
   display: flex;
   flex-direction: column;
 }
@@ -45,6 +45,7 @@ button{
   border: none;
   padding: 10px;
   border-radius: 5px;
+  width: 100%;
 }
 
 footer{
